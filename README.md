@@ -14,7 +14,7 @@ Docs Link :
         <th style="text-align: center">Normal Apple</th>
         <th style="text-align: center">Mixed (Good + Bad)</th>
         <th style="text-align: center">Color Including</th>
-        <th style="text-align: center; width: 100px">Use In</th>
+        <th style="text-align: center">Use In</th>
     </tr>
     <tr>
         <td style="text-align: center">A1</td>
@@ -53,7 +53,7 @@ Docs Link :
         </td>
         <td style="text-align : center">
             images > apple fruit<br>
-            0/40
+            4/40
         </td>
         <td style="text-align : center">
             🥲
